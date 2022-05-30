@@ -1,2 +1,2 @@
 * linguist-vendored
-*.JAVA linguist-vendored=false
+*.dart linguist-vendored=false
